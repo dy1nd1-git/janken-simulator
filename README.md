@@ -18,14 +18,14 @@
 
 2. **バージョンの確認**
    ターミナルで以下のコマンドを実行し、バージョンが表示されれば準備完了です。
-   ```bash
+```bash
    python3 --version
-   ```
+```
 
 ## リポジトリのクローン方法
 
 ```bash
-   git clone https://github.com/あなたの名前/janken-simulation.git
+   git clone https://github.com/dy1nd1-git/janken-simulator.git
 ```
 
 ## 実行方法
