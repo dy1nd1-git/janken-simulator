@@ -22,6 +22,12 @@
    python3 --version
    ```
 
+## リポジトリのクローン方法
+
+```bash
+   git clone https://github.com/あなたの名前/janken-simulation.git
+```
+
 ## 実行方法
 
 1. シミュレーション実行:
